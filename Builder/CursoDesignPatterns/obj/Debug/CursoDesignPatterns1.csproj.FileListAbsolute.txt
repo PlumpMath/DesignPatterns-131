@@ -1,0 +1,9 @@
+C:\Users\dieg\Documents\Visual Studio 2013\Projects\CursoDesignPatterns\CursoDesignPatterns\bin\Debug\CursoDesignPatterns.exe.config
+C:\Users\dieg\Documents\Visual Studio 2013\Projects\CursoDesignPatterns\CursoDesignPatterns\obj\Debug\CursoDesignPatterns.exe
+C:\Users\dieg\Documents\Visual Studio 2013\Projects\CursoDesignPatterns\CursoDesignPatterns\obj\Debug\CursoDesignPatterns.pdb
+C:\Users\dieg\Documents\Visual Studio 2013\Projects\CursoDesignPatterns\CursoDesignPatterns\bin\Debug\CursoDesignPatterns.exe
+C:\Users\dieg\Documents\Visual Studio 2013\Projects\CursoDesignPatterns\CursoDesignPatterns\bin\Debug\CursoDesignPatterns.pdb
+C:\Users\dieg\Documents\Visual Studio 2013\Projects\CursoDesignPatterns\CursoDesignPatterns\obj\Debug\CursoDesignPatterns1.csprojResolveAssemblyReference.cache
+C:\Users\dieg\Documents\Visual Studio 2013\Projects\Builder\CursoDesignPatterns\bin\Debug\CursoDesignPatterns.exe.config
+C:\Users\dieg\Documents\Visual Studio 2013\Projects\Builder\CursoDesignPatterns\obj\Debug\CursoDesignPatterns.exe
+C:\Users\dieg\Documents\Visual Studio 2013\Projects\Builder\CursoDesignPatterns\obj\Debug\CursoDesignPatterns.pdb

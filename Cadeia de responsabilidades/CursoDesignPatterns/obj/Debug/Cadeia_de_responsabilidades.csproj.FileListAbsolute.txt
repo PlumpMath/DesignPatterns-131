@@ -1,0 +1,6 @@
+C:\Users\dieg\Documents\Visual Studio 2013\Projects\Cadeia de responsabilidades\CursoDesignPatterns\bin\Debug\CursoDesignPatterns.exe.config
+C:\Users\dieg\Documents\Visual Studio 2013\Projects\Cadeia de responsabilidades\CursoDesignPatterns\obj\Debug\CursoDesignPatterns.exe
+C:\Users\dieg\Documents\Visual Studio 2013\Projects\Cadeia de responsabilidades\CursoDesignPatterns\obj\Debug\CursoDesignPatterns.pdb
+C:\Users\dieg\Documents\Visual Studio 2013\Projects\Cadeia de responsabilidades\CursoDesignPatterns\bin\Debug\CursoDesignPatterns.exe
+C:\Users\dieg\Documents\Visual Studio 2013\Projects\Cadeia de responsabilidades\CursoDesignPatterns\bin\Debug\CursoDesignPatterns.pdb
+C:\Users\dieg\Documents\Visual Studio 2013\Projects\Cadeia de responsabilidades\CursoDesignPatterns\obj\Debug\Cadeia_de_responsabilidades.csprojResolveAssemblyReference.cache
